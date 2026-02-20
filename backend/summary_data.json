@@ -1,0 +1,110 @@
+{
+    "overall_metrics": {
+        "total_spend": 46303442.900000006,
+        "total_revenue": 166979422.66,
+        "total_conversions": 760490,
+        "overall_roas": 3.606198852655943
+    },
+    "channel_metrics": [
+        {
+            "channel": "Email",
+            "spend": 1764078.73,
+            "revenue": 12833973.13,
+            "conversions": 229747,
+            "roas": 7.27517026975321
+        },
+        {
+            "channel": "Google Ads",
+            "spend": 9811735.43,
+            "revenue": 34244551.22,
+            "conversions": 75053,
+            "roas": 3.4901625165406647
+        },
+        {
+            "channel": "Influencer",
+            "spend": 13215700.98,
+            "revenue": 41942710.7,
+            "conversions": 100653,
+            "roas": 3.1737030645195485
+        },
+        {
+            "channel": "Instagram",
+            "spend": 6808952.15,
+            "revenue": 19784012.15,
+            "conversions": 114692,
+            "roas": 2.905588365751696
+        },
+        {
+            "channel": "LinkedIn",
+            "spend": 3623251.88,
+            "revenue": 15189638.42,
+            "conversions": 17526,
+            "roas": 4.192266760101702
+        },
+        {
+            "channel": "Meta Ads",
+            "spend": 7954887.81,
+            "revenue": 25242478.82,
+            "conversions": 91260,
+            "roas": 3.1732036230942144
+        },
+        {
+            "channel": "SEO",
+            "spend": 3124835.92,
+            "revenue": 17742058.22,
+            "conversions": 131559,
+            "roas": 5.67775674442452
+        }
+    ],
+    "monthly_metrics": [
+        {
+            "month": "2025-08",
+            "spend": 7660633.29,
+            "revenue": 27799426.75,
+            "conversions": 127455,
+            "roas": 3.6288679666064527
+        },
+        {
+            "month": "2025-09",
+            "spend": 7471322.1,
+            "revenue": 26813163.82,
+            "conversions": 120370,
+            "roas": 3.588811118182149
+        },
+        {
+            "month": "2025-10",
+            "spend": 7767000.0,
+            "revenue": 27776940.31,
+            "conversions": 130271,
+            "roas": 3.5762765945667567
+        },
+        {
+            "month": "2025-11",
+            "spend": 7487856.1,
+            "revenue": 26748118.31,
+            "conversions": 123690,
+            "roas": 3.57219983300694
+        },
+        {
+            "month": "2025-12",
+            "spend": 8052553.74,
+            "revenue": 29260324.58,
+            "conversions": 130059,
+            "roas": 3.6336702026157477
+        },
+        {
+            "month": "2026-01",
+            "spend": 7864077.67,
+            "revenue": 28581448.89,
+            "conversions": 128645,
+            "roas": 3.634431155103279
+        }
+    ],
+    "insights": [
+        "Email is the highest performing channel with ROAS of 7.28x. Consider scaling budget.",
+        "Instagram has the lowest ROAS of 2.91x. Optimization required.",
+        "Overall marketing performance is strong with ROAS above 3x.",
+        "Email and SEO show strong efficiency and should be prioritized.",
+        "Instagram requires campaign-level optimization."
+    ]
+}
